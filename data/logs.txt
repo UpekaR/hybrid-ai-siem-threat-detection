@@ -1,0 +1,7 @@
+User login successful
+Error: failed login attempt
+Connection established
+Unauthorized access detected
+System running normally
+Multiple failed login attempts
+Invalid password entered
